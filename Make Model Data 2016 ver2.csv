@@ -1,0 +1,113 @@
+,VehicleMake,MostFailedComponent,MostFailedComponentratio
+0,ALFA ROMEO,Ratio: Steering and Suspension,0.91
+1,ARDAGH,Ratio: Vehicle and Safety Equipment,0
+2,ASQUITH,Ratio: Wheels and Tyres,0.02
+3,ASTON MARTIN,Ratio: Braking Equipment,0.169491525
+4,AUDI,Ratio: Steering and Suspension,9.11
+5,AUSTIN,Ratio: OTHER,0.158730159
+6,AUSTIN ROVER,Ratio: Vehicle and Safety Equipment,0.01
+7,BADSWORTH,Ratio: Lighting and Electrical,0.02
+8,BEAUFORD,Ratio: Braking Equipment,0.03003003
+9,BENTLEY,Ratio: Wheels and Tyres,0.09
+10,BINZ,Ratio: Vehicle and Safety Equipment,0
+11,BMW,Ratio: Brake Test,7.07
+12,BRAMWITH,Ratio: Suspension Test,0.01
+13,BRENCHLEY,Ratio: Steering and Suspension,0.02
+14,BRISTOL,Ratio: Vehicle and Safety Equipment,0.01
+15,C I,Ratio: Brake Test,0.01
+16,CADILLAC,Ratio: Emmissions,0.06006006
+17,CARBODIES,Ratio: Vehicle and Safety Equipment,0.03003003
+18,CATERHAM,Ratio: Lighting and Electrical,0.01
+19,CHEVROLET,Ratio: Chassis and Body,4.624624625
+20,CHRYSLER,Ratio: Lighting and Electrical,0.4
+21,CHRYSLER JEEP,Ratio: Vehicle and Safety Equipment,0.01
+22,CITROEN,Ratio: Lighting and Electrical,5.9
+23,DACIA,Ratio: Vehicle and Safety Equipment,0.164835165
+24,DAEWOO,Ratio: Chassis and Body,2.938530735
+25,DAIHATSU,Ratio: Side Slip Test,0.960960961
+26,DAIMLER,Ratio: Braking Equipment,0.05
+27,DATSUN,Ratio: Lighting and Electrical,0.01
+28,DE LOREAN,Ratio: Vehicle and Safety Equipment,0.01
+29,DENNIS,Ratio: OTHER,0.01
+30,DODGE,"Ratio: Engine, Noise and Exhaust",0.6
+31,DUFFY,Ratio: Braking Equipment,0.01
+32,FAIRWAY,Ratio: Vehicle and Safety Equipment,0.05
+33,FERRARI,Ratio: Brake Test,0.03003003
+34,FIAT,Ratio: Lighting and Electrical,4.85
+35,FORD,Ratio: Steering and Suspension,26.78
+36,FSO,Ratio: Vehicle and Safety Equipment,0.01
+37,GMC,Ratio: Lighting and Electrical,0.01
+38,GOWRINGS,Ratio: Wheels and Tyres,0.01
+39,HOLDEN,Ratio: Vehicle and Safety Equipment,0.01
+40,HONDA,Ratio: Lighting and Electrical,4.79
+41,HUMMER,Ratio: Vehicle and Safety Equipment,0.02
+42,HYUNDAI,Ratio: Steering and Suspension,5.09
+43,IMPERIAL,Ratio: Lighting and Electrical,0.03003003
+44,INFINITI,Ratio: Vehicle and Safety Equipment,0.01
+45,INTERNATIONAL,Ratio: Vehicle and Safety Equipment,0
+46,ISUZU,Ratio: OTHER,0.120481928
+47,IVECO,Ratio: Vehicle and Safety Equipment,0.02
+48,JAGUAR,Ratio: Braking Equipment,1.84
+49,JEEP,Ratio: Chassis and Body,0.769230769
+50,KIA,Ratio: Lighting and Electrical,2.82
+51,LADA,Ratio: Brake Test,0.01
+52,LAMBORGHINI,Ratio: Vehicle and Safety Equipment,0
+53,LANCIA,Ratio: Suspension Test,0.03003003
+54,LANDROVER,Ratio: Lighting and Electrical,1.58
+55,LDV,Ratio: Lighting and Electrical,0.01
+56,LEXUS,"Ratio: Engine, Noise and Exhaust",2.307692308
+57,LEYLAND,Ratio: Wheels and Tyres,0.04
+58,LINCOLN,Ratio: Lighting and Electrical,0.05
+59,LOTUS,"Ratio: Engine, Noise and Exhaust",0.09009009
+60,LTI,Ratio: Vehicle and Safety Equipment,0
+61,MAKE UNSPECIFIED,Ratio: Steering and Suspension,0.367775832
+62,MASERATI,"Ratio: Engine, Noise and Exhaust",0.14084507
+63,MAZDA,Ratio: Lighting and Electrical,4.55
+64,MERCEDES BENZ,Ratio: Steering and Suspension,11.46
+65,MERCEDES/COMPASS,Ratio: Steering and Suspension,0.01
+66,METROCAB,Ratio: Lighting and Electrical,0.02
+67,MG,Ratio: OTHER,0.833333333
+68,MICRO-VETT,Ratio: Side Slip Test,0.01
+69,MINI,Ratio: Light test,3.063063063
+70,MITSUBISHI,Ratio: Lighting and Electrical,2.43
+71,MITSUOKA,Ratio: Vehicle and Safety Equipment,0.03003003
+72,MORGAN,Ratio: Vehicle and Safety Equipment,0.02
+73,MORRIS,Ratio: Vehicle and Safety Equipment,0.01
+74,NEUSON,Ratio: Vehicle and Safety Equipment,0.02
+75,NISSAN,Ratio: Chassis and Body,24.11
+76,OPEL,Ratio: Steering and Suspension,10.14
+77,OTHER,Ratio: Vehicle and Safety Equipment,0.01
+78,PANTHER,Ratio: Chassis and Body,0.01
+79,PERODUA,Ratio: Braking Equipment,0.05
+80,PEUGEOT,Ratio: Steering and Suspension,12.8
+81,PORSCHE,Ratio: Steering and Suspension,0.140105079
+82,PROTON,Ratio: Vehicle and Safety Equipment,0.04
+83,REGENT,Ratio: Steering and Suspension,0.04
+84,RELIANT,Ratio: Vehicle and Safety Equipment,0.01
+85,RENAULT,Ratio: Lighting and Electrical,18.12
+86,RILEY,Ratio: Vehicle and Safety Equipment,0
+87,ROLLS ROYCE,Ratio: Emmissions,0.03003003
+88,ROVER,Ratio: Steering and Suspension,0.95
+89,SAAB,Ratio: Steering and Suspension,9.38
+90,SEAT,"Ratio: Engine, Noise and Exhaust",5.045045045
+91,SHELSLEY,Ratio: Vehicle and Safety Equipment,0.01
+92,SKODA,Ratio: Suspension Test,25.83333333
+93,SMART,Ratio: Braking Equipment,0.649350649
+94,SSANGYONG,Ratio: Wheels and Tyres,1.049250535
+95,STANDARD MOTOR COMPANY,Ratio: Steering and Suspension,0.01
+96,SUBARU,Ratio: Suspension Test,0.68
+97,SUZUKI,Ratio: Lighting and Electrical,1.71
+98,TALBOT,Ratio: Vehicle and Safety Equipment,0.01
+99,TATA,Ratio: Braking Equipment,0.02
+100,TESLA,Ratio: Steering and Suspension,0.02
+101,TIGER,Ratio: Emmissions,0.01
+102,TOYOTA,Ratio: Lighting and Electrical,36.28
+103,TRABANT,Ratio: Lighting and Electrical,0.01
+104,TRIUMPH,Ratio: Steering and Suspension,0.02
+105,TVR,Ratio: Vehicle and Safety Equipment,0.01
+106,VAUXHALL,Ratio: Steering and Suspension,3.6
+107,VINTAGE MOTOR COMPANY,Ratio: Emmissions,0.01
+108,VOLKSWAGEN,Ratio: Lighting and Electrical,16.61
+109,VOLVO,Ratio: Side Slip Test,3.48
+110,WESTFIELD,Ratio: Lighting and Electrical,0.01
+111,YUGO,Ratio: Lighting and Electrical,0.02
